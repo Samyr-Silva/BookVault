@@ -1,6 +1,6 @@
 package com.bookvault.vault.repositories;
 
-import com.bookvault.vault.model.Reader;
+import com.bookvault.vault.models.Reader;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

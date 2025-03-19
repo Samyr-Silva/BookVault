@@ -1,4 +1,4 @@
-package com.bookvault.vault.model;
+package com.bookvault.vault.models;
 
 import jakarta.persistence.*;
 import lombok.*;
